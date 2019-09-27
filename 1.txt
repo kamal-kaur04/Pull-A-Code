@@ -1,0 +1,8 @@
+cd git102
+git checkout -b "dev"
+git status
+git add.
+git commit -m "git102"
+git push
+
+checkout master
